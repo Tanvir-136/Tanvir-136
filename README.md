@@ -1,16 +1,7 @@
 # Hi there,👋 I'm MD.TANVIR ISLAM
-<--##### A passionate Competitive Programmer!-->
-class CompetitiveProgrammer {
-  constructor(name) {
-    this.name = name;
-  }
+##### A passionate Competitive Programmer!
 
-  writeCode() {
-    console.log(`${this.name} is a passionate Competitive Programmer`);
-  }
-}
-const programmer = new CompetitiveProgrammer("Tanvir Islam");
-programmer.writeCode();
+console.log("A passionate Competitive Programmer");
 
 🤖Automated code ninja by day, debugging wizard by night. Transforming complex problems into elegant, modular code is my forte.
 
