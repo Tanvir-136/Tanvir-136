@@ -1,6 +1,5 @@
-<img src="WhatsApp Image 2023-11-10 at 10.31.36 AM.jpeg"></img>
-### Hi there 👋, Hi 👋, I'm MD.TANVIR ISLAM
-#### A passionate Competitive Programmer
+# Hi there 👋, Hi 👋, I'm MD.TANVIR ISLAM
+##### A passionate Competitive Programmer
 🤖Automated code ninja by day, debugging wizard by night. Transforming complex problems into elegant, modular code is my forte.
 
 Skills: HTML / CSS/JAVA/C++/C
