@@ -1,7 +1,21 @@
 # Hi there,👋 I'm MD.TANVIR ISLAM
 ##### A passionate Competitive Programmer!
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
 
+  pre {
+    animation: fadeIn 1s ease-in-out;
+  }
+</style>
 console.log("A passionate Competitive Programmer");
+
 
 🤖Automated code ninja by day, debugging wizard by night. Transforming complex problems into elegant, modular code is my forte.
 
