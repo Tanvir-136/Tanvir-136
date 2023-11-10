@@ -1,7 +1,5 @@
 ### Hi there 👋, Hi 👋, I'm MD.TANVIR ISLAM
 #### A passionate Competitive Programmer
-![A passionate Competitive Programmer](https://www.facebook.com/photo.php?fbid=564599735711270&set=a.463158589188719&type=3&mibextid=Nif5oz)
-
 🤖Automated code ninja by day, debugging wizard by night. Transforming complex problems into elegant, modular code is my forte.
 
 Skills: HTML / CSS/JAVA/C++/C
