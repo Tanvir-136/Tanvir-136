@@ -35,14 +35,3 @@
 [![](https://visitcount.itsvg.in/api?id=tanvir-136&icon=0&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanvir-136)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-136)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir-136&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/tanvir-136)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tanvir-136)  
-
