@@ -1,21 +1,38 @@
-# Hi there,👋 I'm MD.TANVIR ISLAM
-##### A passionate Competitive Programmer!
+# 💫 About Me:
+## Hey there,I'm Md.Tanvir Islam
+### A passionate Competitive Programmer!
+🏛️ I’m a student of Computer Science & Engineering at Patuakhali Science & Technology University<br>
+👯 I’m looking to collaborate on Github <br>
+🌱 I’m currently learning C++/JAVA<br>
+💬 Ask me about anything<br>
+📫 How to reach me: tanvir12islam34@gmail.com 
+⚡ Fun fact: Transforming lines of code and coffee into digital magic ✨.
 
-🤖Automated code ninja by day, debugging wizard by night. Transforming complex problems into elegant, modular code is my forte.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvir12islam34) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanvir__islam__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tanvir12) 
 
-Skills: HTML / CSS/JAVA/C++/C
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Tanvir_136)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](tanvir_islam__)  
 
-- 🔭 I’m currently working on this 
-- 🌱 I’m currently learning C++/JAVA 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Coding, Programming 
-- 📫 How to reach me: tanvir12islam34@gmail.com 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tanvir-136&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanvir-136&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-136&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tanvir-136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter: invert(47%) sepia(94%) saturate(6044%) hue-rotate(343deg) brightness(109%) contrast(88%);">](https://github.com/tanvir-136)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'  color='orange'>](https://www.facebook.com/tanvir12islam34)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'  color='orange'>](https://www.instagram.com/tanvir__islam__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'  color='orange'>](https://www.youtube.com/channel/tanvir12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'  color='orange'>](https://codeforces.com/profile/Tanvir_136)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'  color='orange'>](tanvir12islam34@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40' color='orange'>](tanvir_islam__)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tanvir-136&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tanvir-136&icon=0&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanvir-136)](https://github.com/ryo-ma/github-profile-trophy)
 
