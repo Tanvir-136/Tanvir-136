@@ -5,7 +5,7 @@
 👯 I’m looking to collaborate on Github <br>
 🌱 I’m currently learning C++/JAVA<br>
 💬 Ask me about anything<br>
-📫 How to reach me: tanvir12islam34@gmail.com 
+📫 How to reach me: tanvir12islam34@gmail.com <br>
 ⚡ Fun fact: Transforming lines of code and coffee into digital magic ✨.
 
 ## 🌐 Socials:
