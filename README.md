@@ -1,4 +1,4 @@
-![Cover Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2_Pkzno4EtWAP5MIEtSY_e&ust=1707557379107000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCPiV1JL5nYQDFQAAAAAdAAAAABAI)
+![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 # 💫 About Me:
 ## Hey there,I'm Md.Tanvir Islam
 ### A passionate Competitive Programmer!
