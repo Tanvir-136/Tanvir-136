@@ -1,7 +1,8 @@
 # 💫 About Me:
 ## Hey there,I'm Md.Tanvir Islam
-### A passionate `Competitive Programmer`!
-![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+### A passionate Competitive Programmer!
+  ![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+
 🏛️ I’m a student of Computer Science & Engineering at Patuakhali Science & Technology University<br>
 👯 I’m looking to collaborate on Github <br>
 🌱 I’m currently learning C++/JAVA<br>
