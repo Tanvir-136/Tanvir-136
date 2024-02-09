@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hey there,I'm Md.Tanvir Islam
-   ![Cover Image](https://storyset.com/illustration/coding/bro)
+   ![Cover Image]([https://storyset.com/illustration/coding/bro](https://storyset.com/illustration/hand-coding/bro))
 ### A passionate Competitive Programmer!
   ![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
