@@ -2,15 +2,15 @@
 ## Hey there,I'm Md.Tanvir Islam
   ![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
-🚀 Computer Science student passionate about Competitive Programming.
+🚀 Computer Science student passionate about `Competitive Programming`.
 
 🏆 Regularly solving coding challenges to enhance skills.
 
-🌱 Currently focusing on mastering algorithms and data structures.
+🌱 Currently focusing on mastering `algorithms` and `data structures`.
 
 💬 Open to collaborations and discussions on tech and programming.
 
-📫 Reach me at tanvir12islam34@gmail.com.
+📫 Reach me at [Gmail](tanvir12islam34@gmail.com)
 
 ⚡ Fun Fact: Turning coffee into code since 2023.
 
