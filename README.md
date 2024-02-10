@@ -10,7 +10,7 @@
 
 💬 Open to collaborations and discussions on tech and programming.
 
-📫 Reach me at [Gmail](tanvir12islam34@gmail.com)
+📫 Reach me at [Gmail](mailto:tanvir12islam34@gmail.com)
 
 ⚡ Fun Fact: Turning coffee into code since 2023.
 
