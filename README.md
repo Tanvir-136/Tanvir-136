@@ -1,14 +1,19 @@
 # 💫 About Me:
 ## Hey there,I'm Md.Tanvir Islam
-### A passionate Competitive Programmer!
   ![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
-🏛️ I’m a student of Computer Science & Engineering at Patuakhali Science & Technology University<br>
-👯 I’m looking to collaborate on Github <br>
-🌱 I’m currently learning C++/JAVA<br>
-💬 Ask me about anything<br>
-📫 How to reach me: tanvir12islam34@gmail.com <br>
-⚡ Fun fact: Transforming lines of code and coffee into digital magic ✨.
+🚀 Computer Science student passionate about Competitive Programming.
+
+🏆 Regularly solving coding challenges to enhance skills.
+
+🌱 Currently focusing on mastering algorithms and data structures.
+
+💬 Open to collaborations and discussions on tech and programming.
+
+📫 Reach me at tanvir12islam34@gmail.com.
+
+⚡ Fun Fact: Turning coffee into code since 2023.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvir12islam34) 
