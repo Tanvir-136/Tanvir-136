@@ -1,6 +1,7 @@
 # 💫 About Me:
 ##                                             Hey there, I'm Tanvir Islam
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+Student+of+B.Sc.+Engg.+in+CSE;A+Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=E5F72C&center=true&vCenter=true&width=435&lines=+Student+of+;B.Sc.+Engg.+in+CSE+;A+Competitive+Programmer)](https://git.io/typing-svg)
+
   ![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
 🚀 Computer Science student passionate about `Competitive Programming`.
