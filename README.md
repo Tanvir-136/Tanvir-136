@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hey there,I'm Md.Tanvir Islam
+## Hey there, I'm Tanvir Islam
   ![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
 🚀 Computer Science student passionate about `Competitive Programming`.
