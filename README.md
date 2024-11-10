@@ -3,7 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=100&color=E5F72C&width=435&lines=B.Sc.+Engg.+student+in+CSE;Passionate+competitive+programmer;Transforming+ideas+into+code.)](https://git.io/typing-svg)
 
-![Cover Image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+<p><img width="28%" align="right" alt="Github Header" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/></p>
+
 
 🚀 Computer Science student passionate about `Competitive Programming`.
 
