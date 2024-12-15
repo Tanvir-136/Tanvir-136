@@ -24,7 +24,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanvir__islam__) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tanvir12) 
 
-##👨🏻‍💻 Coding Platforms:
+## 👨🏻‍💻 Coding Platforms:
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tanvir_136)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866.svg?logo=HackerRank&logoColor=white)](https://hackerrank.com/tanvir_islam__)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/tanvir_islam_/)
