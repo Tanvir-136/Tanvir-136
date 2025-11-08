@@ -3,7 +3,7 @@
 <h3 align="center">Competitive Programmer • CSE Student • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32F7D6&center=true&vCenter=true&width=750&lines=Competitive+Programmer;CSE+Student;Full+Stack+Developer+(Learning);Flutter+App+Developer;Backend+Developer;Problem+Solving+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32F7D6&center=true&vCenter=true&width=750&lines=Competitive+Programmer;CSE+Student;Problem+Solver;Flutter+App+Developer;DSA+Enthusiast" />
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 🎓 **B.Sc. in Computer Science and Engineering**  
 🤖 Passionate about **Competitive Programming**  
 📘 Solving problems on **Codeforces, AtCoder, LeetCode, HackerRank**  
-⚡ Currently improving skills in **DSA, Algorithms, Backend & Flutter**  
-💬 Always open to collaborations and tech discussions  
+🌱 Currently improving skills in **DSA, Algorithms & Flutter**  
+💬 Open to collaborations and tech discussions  
 📧 Email: **tanvir12islam34@gmail.com**  
 ☕ Fun Fact: *Turning caffeine into Accepted Solutions since 2023.*
 
@@ -28,6 +28,7 @@
   <a href="https://facebook.com/tanvir12islam34"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://instagram.com/tanvir__islam__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://youtube.com/@tanvir12"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanvir-islam-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
 ---
@@ -83,10 +84,14 @@
 
 ---
 
-# 📊 Skills Graph (Radar Overview)
-<p align="center">
-  <img src="https://github-readme-skills.vercel.app/api/skills?skills=c,cpp,python,java,cs,php,dart,flutter,js,html,css,sql,linux,git&theme=dark" />
-</p>
+# 📊 Skills Progress
+- C++ ![C++](https://img.shields.io/badge/C++-Expert-brightgreen)
+- Python ![Python](https://img.shields.io/badge/Python-Advanced-blue)
+- Java ![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
+- Dart ![Dart](https://img.shields.io/badge/Dart-Intermediate-lightblue)
+- Flutter ![Flutter](https://img.shields.io/badge/Flutter-Intermediate-lightblue)
+- SQL ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange)
+- Linux ![Linux](https://img.shields.io/badge/Linux-Intermediate-red)
 
 ---
 
