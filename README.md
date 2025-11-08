@@ -113,7 +113,7 @@
 
 ## 👀 Profile Views  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tanvir-136&icon=0&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=tanvir-136&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
