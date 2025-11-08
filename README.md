@@ -84,17 +84,6 @@
 
 ---
 
-# 📊 Skills Progress
-- C++ ![C++](https://img.shields.io/badge/C++-Expert-brightgreen)
-- Python ![Python](https://img.shields.io/badge/Python-Advanced-blue)
-- Java ![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
-- Dart ![Dart](https://img.shields.io/badge/Dart-Intermediate-lightblue)
-- Flutter ![Flutter](https://img.shields.io/badge/Flutter-Intermediate-lightblue)
-- SQL ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange)
-- Linux ![Linux](https://img.shields.io/badge/Linux-Intermediate-red)
-
----
-
 # 📊 GitHub Stats  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanvir-136&theme=tokyonight&show_icons=true&hide_border=true"/>
