@@ -1,166 +1,123 @@
-<h1 align="center">Hey there, I'm Tanvir Islam 👋</h1>
+<!-- Header Section -->
+<h1 align="center">✨ Tanvir Islam ✨</h1>
+<h3 align="center">Passionate Competitive Programmer • CSE Student • Problem Solver</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=100&color=E5F72C&width=435&lines=B.Sc.+Engg.+student+in+CSE;Passionate+competitive+programmer;Transforming+ideas+into+code." alt="Typing SVG">
-</a>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250"/>
 </p>
 
 <p align="center">
-<img width="35%" align="right" alt="Github Header" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+  <a href="mailto:tanvir12islam34@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/tanvir12islam34">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tanvir__islam__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@tanvir12">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
 </p>
 
-<!-- ABOUT ME SECTION -->
+---
 
-💫 About Me:
+## 👨‍💻 About Me  
+🎓 **B.Sc. in CSE (Ongoing)**  
+💡 **Competitive Programmer** passionate about solving algorithmic challenges  
+🔥 Active on **Codeforces, AtCoder, LeetCode, HackerRank**  
+🌱 Learning **Advanced Algorithms**, **Data Structures**, and **System Design**  
+🤝 Open to collaboration on **Open Source**, **CP Education**, and **Backend Projects**  
+☕ Fun Fact: *I turn caffeine into accepted solutions.*
 
-🚀 B.Sc. Engg. student in Computer Science with a passion for Competitive Programming.
+---
 
-🏆 Regularly solving coding challenges to enhance my problem-solving skills.
-
-🌱 Currently focusing on mastering algorithms and data structures.
-
-💬 Open to collaborations and discussions on tech and programming.
-
-📫 Reach me at: tanvir12islam34@gmail.com
-
-⚡ Fun Fact: Turning coffee into code since 2023.
-
-<!-- SOCIALS SECTION -->
-
-<h3 align="left">🌐 Connect with Me:</h3>
+## 🚀 Coding Profiles  
 <p align="left">
-<a href="https://facebook.com/tanvir12islam34" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-%25231877F2.svg%3Fstyle%3Dfor-the-badge%26logo%3DFacebook%26logoColor%3Dwhite" alt="Facebook">
-</a>
-<a href="https://instagram.com/tanvir__islam_" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram">
-</a>
-<a href="https://youtube.com/@tanvir12" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-%2523FF0000.svg%3Fstyle%3Dfor-the-badge%26logo%3DYouTube%26logoColor%3Dwhite" alt="YouTube">
-</a>
+  <a href="https://codeforces.com/profile/tanvir_136">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+  </a>
+  <a href="https://atcoder.jp/users/tanvir_islam">
+    <img src="https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=AtCoder&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/tanvir_islam_/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  </a>
+  <a href="https://hackerrank.com/tanvir_islam__">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
 </p>
 
-<!-- CODING PLATFORMS SECTION -->
+---
 
-<h3 align="left">👨🏻‍💻 Coding Platforms:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/tanvir_136" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Codeforces-445f9d.svg%3Fstyle%3Dfor-the-badge%26logo%3DCodeforces%26logoColor%3Dwhite" alt="Codeforces">
-</a>
-<a href="https://hackerrank.com/tanvir_islam_" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Hackerrank-2EC866.svg%3Fstyle%3Dfor-the-badge%26logo%3DHackerRank%26logoColor%3Dwhite" alt="Hackerrank">
-</a>
-<a href="https://www.google.com/search?q=https://leetcode.com/tanvir_islam/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LeetCode-orange.svg%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dwhite" alt="LeetCode">
-</a>
-<a href="https://atcoder.jp/users/tanvir_islam" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-AtCoder-1F8ACB.svg%3Fstyle%3Dfor-the-badge%26logo%3DAtCoder%26logoColor%3Dwhite" alt="AtCoder">
-</a>
-</p>
+## 💼 Tech Stack  
 
-<!-- Clear float from the GIF -->
+### 🚀 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004D8C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7B7BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<br clear="both">
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- TECH STACK SECTION -->
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
-
-
-
-<div align="center">
-<strong>LANGUAGES:</strong>
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/python-%252314354C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dyellow" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2523-%2523239120.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/java-%2523ED8B00.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" alt="Java"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-%2523777BB4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" alt="JavaScript"/>
-
-
-
-
-
-
-
-<strong>WEB & DATABASE:</strong>
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/sql%2520server-%2523CC2927.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite" alt="SQL Server"/>
-
-
-
-
-
-
-
-<strong>TOOLS & PLATFORMS:</strong>
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-fc6d26%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/github-%2523121011.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linux-%2523FCC624.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS%2520Code-0078d7.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VS Code"/>
-</div>
-
-<!-- GITHUB STATS SECTION -->
-
-<h2 align="center">📊 My GitHub Stats 📊</h2>
+## 📊 GitHub Analytics  
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtanvir-136%26theme%3Dtokyonight%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats"/>
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtanvir-136%26theme%3Dtokyonight%26hide_border%3Dfalse" alt="GitHub Streak Stats"/>
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtanvir-136%26theme%3Dtokyonight%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-136&theme=tokyonight&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-136&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
-<!-- GITHUB TROPHIES SECTION -->
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tanvir-136&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-<!-- OTHER STATS/QUOTES -->
-
-<div align="center">
-<h3>✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-
-<h3>🔝 Top Contributed Repo</h3>
-<img src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3Dtanvir-136%26limit%3D5%26theme%3Dtokyonight%26combine_all_yearly_contributions%3Dtrue" alt="Top Contributed Repo"/>
-</div>
-
-<!-- VISITOR COUNT -->
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=tanvir-136&icon=0&color=7" alt="Visitor Count"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-136&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanvir-136&theme=tokyonight&no-frame=true&margin-w=4"/>
+</p>
+
+---
+
+## ✍️ Random Developer Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=tanvir-136&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=tanvir-136&icon=0&color=6"/>
+</p>
+
+---
+
+### ⭐ Thanks for Visiting My Profile  
+Feel free to ⭐ **star** my repositories if you find them interesting!
+
